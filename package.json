@@ -1,0 +1,14 @@
+{
+  "name": "graphql-mongo-api",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@apollo/server": "^5.5.1",
+    "graphql": "^16.14.0",
+    "mongoose": "^8.0.0"
+  }
+}
